@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426051310711",
+    "project_id": "flutter-otp-auth-d428c",
+    "storage_bucket": "flutter-otp-auth-d428c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426051310711:android:dfea77a074e6d94e742272",
+        "android_client_info": {
+          "package_name": "com.cassystem.pro_charger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426051310711-cdqem6k8rkoicoammkood3beb397gklg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cassystem.pro_charger_app",
+            "certificate_hash": "0ea5b8bd60f4a662197f282894ae34fa2fd39f99"
+          }
+        },
+        {
+          "client_id": "426051310711-e81eqkdi7b7ji24vota808ej5tblmes6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZTdMC3Fan8Hz0FbCbgZ8r_YcSLR-DOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426051310711-e81eqkdi7b7ji24vota808ej5tblmes6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
